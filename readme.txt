@@ -13,3 +13,11 @@ You will need to change the PATH in the python script
 
 
 I also included all the python files from the examples for the JPL free oline SPICE class.
+Here's my workshop notes: https://docs.google.com/document/d/1Tm5nSUHHE04iC71V4nQWyKRsA31Q5yfY9PzQnS3STpU/edit?usp=sharing
+
+IMPORTANT:
+You need to download these kernels from the NAIF data archive:
+https://naif.jpl.nasa.gov/pub/naif/MSL/kernels/spk/mars085s.bsp
+https://naif.jpl.nasa.gov/pub/naif/MAVEN/kernels/spk/mars097s.bsp
+
+They were too big for github (95MB).

@@ -1,4 +1,3 @@
-(c) 2023 SwRI
 Download kernels into a kernels folder;
 Download metakernels into a MetaKernels folder
 Run in python 3.6+ (I use 3.10)
